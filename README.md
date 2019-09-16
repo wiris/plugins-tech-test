@@ -1,4 +1,4 @@
-# Wiris Plugin technical proof
+# Wiris Plugin technical test
 ---
 ## First practice: Editor instance
 - Follow the [Quick Start Guide](https://ckeditor.com/docs/ckeditor5/latest/framework/guides/quick-start.html) to initialize a CKEditor5 editor instance on the div editable area defined in index.html
